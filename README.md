@@ -1,1 +1,1 @@
-# Classification-Artificial-Intelligence
+# Classification Artificial Intelligence
